@@ -4,6 +4,7 @@ public class HelloWorld {
 		System.out.println("Status is " + getStatus());
 		System.out.println("Some changes to testing2");
 		System.out.println("Changes to proposed branch");
+		System.out.println("Bad changes");
 	}
 	public static boolean getStatus(){
 	return true;
